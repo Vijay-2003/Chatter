@@ -1,1 +1,1 @@
-Realtime chat application made using socket.io
+Real Time Chat WebApplication 
